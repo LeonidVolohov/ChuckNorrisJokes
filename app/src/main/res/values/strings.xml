@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chuck Norris Jokes</string>
+    <string name="how_many_jokes_edittext">How many jokes?</string>
+    <string name="generate_new_joke_button">Generate new joke</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_jokes">Jokes</string>
+    <string name="title_web">Web</string>
+</resources>
